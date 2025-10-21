@@ -1,4 +1,4 @@
-package br.com.devpoint.taskflow.auth_service;
+package br.com.devpoint.taskflow.authservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package br.com.devpoint.taskflow.auth_service;
+package br.com.devpoint.taskflow.authservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
